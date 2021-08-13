@@ -14,7 +14,7 @@ The slides used have a 'stick point' in the middle. This makes it easy to use, b
 ## Experiment 2
 IMU -- this contains a vastly overkill nine-axis IMU that can be used to 
 
-[![Alt text](https://img.youtube.com/vi/P0G-hcmtkKg/0.jpg)](https://www.youtube.com/watch?v=P0G-hcmtkKg)
+[![youtube vid of the controller in action](https://img.youtube.com/vi/P0G-hcmtkKg/0.jpg)](https://www.youtube.com/watch?v=P0G-hcmtkKg) (click to open YouTube video)
 
 
 
