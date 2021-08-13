@@ -12,7 +12,7 @@ Slide potentiometers!
 The slides used have a 'stick point' in the middle. This makes it easy to use, but
 
 ## Experiment 2
-IMU -- this contains a vastly overkill nine-axis IMU that can be used to 
+IMU -- this contains a vastly overkill nine-axis IMU that can be used as an analogue input. In the initial version, it's only used to control the X axis (a bit like a steering wheel). There's also a slider becuase I enjoyed the slider for throttle control. This time, I've gone with a smooth slider (no 'bump' in the middle, but added some LEDs to indicate position (so it's easy to get 0). In hindsight, a colour scale on thes LEDs would have been nice.
 
 [![youtube vid of the controller in action](https://img.youtube.com/vi/P0G-hcmtkKg/0.jpg)](https://www.youtube.com/watch?v=P0G-hcmtkKg) (click to open YouTube video)
 
