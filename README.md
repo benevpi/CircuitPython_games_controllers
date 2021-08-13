@@ -7,6 +7,9 @@ I haven't done any schematics because I free-hand the circuits and make them up 
 I got a bunch of protoboard in the shape of gamepads made up. This includes a spot to solder a Pico. Version 1 also had space for two stemma QT connectos , 
 but these proved to be more complex than they're worth so I haven't actually used them. If I make a version 2, I'll drop these.
 
+## Hardware
+In the hardware folder you'll find easyEDA design files and Gerbers (for fabrication) for version 1 of the controller. There are a bunch of things I'm unhappy with on this, but it works!
+
 ## Experiment 1
 Slide potentiometers!
 The slides used have a 'stick point' in the middle. This makes it easy to use, but takes a bit of a push to get over this lump. It makes it a bit janky to play.
