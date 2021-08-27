@@ -29,5 +29,11 @@ Overall, I think I prefer this pot without the sticking point in the middle. IT 
 
 (click to open YouTube video)
 
+## Experiment 3
+Rotary encoder. This is actually the back of the board from Experiment 1. I couldn't find a nice big knob that I liked, so I cut one out of a scrap of plywood on the scroll saw, and hot-glued a small knob in it (this has the right bits for attaching to the rotary encoder shaft). I also screwed another knob on the wheel to act as a handle.
+
+[![youtube vid of the controller in action](https://img.youtube.com/vi/HdFMW8ZR8MQ/0.jpg)](https://www.youtube.com/watch?v=HdFMW8ZR8MQ) 
+
+(click to open YouTube video)
 
 
